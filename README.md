@@ -1,7 +1,8 @@
 # KCP_realtimeSearchTracker
 ## This repository contains Data processing Code for Search Tracker 
-Data transformation: main.py
-Power BI Template: Share of Search.pbix
+#### Data transformation: 
+main.py
+#### Power BI Template: Share of Search.pbix
 ### standard input files as below and you should have in 
 
 1.	Keywords to brand requirement with Keyword type
